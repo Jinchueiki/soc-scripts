@@ -1,12 +1,3 @@
-## Sommaire
-- [🎯 Objectif](#objectif)
-- [🧱 Architecture](#architecture)
-- [🛠 Technologies utilisées](#technologies-utilisées)
-- [⚙ Fonctionnalités](#fonctionnalités)
-- [📚 Ce que j'ai appris](#ce-que-jai-appris)
-- [🚀 Améliorations futures](#améliorations-futures)
-
-
 SOC Cloud Personnel avec Wazuh et Suricata
 
 Ce projet consiste à déployer un environnement de supervision de sécurité (SOC) dans le cloud en utilisant Wazuh en mode all-in-one, Suricata pour la détection réseau, et Oracle Cloud Infrastructure pour l'hébergement des machines virtuelles.
